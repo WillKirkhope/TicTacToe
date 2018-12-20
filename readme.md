@@ -4,4 +4,4 @@
 
 - The logic is split into gamelogic.js and app.js
 
-- Deployed Link: 
+- Deployed Link: https://tictactoe-w.firebaseapp.com/
